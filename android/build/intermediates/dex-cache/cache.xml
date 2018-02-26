@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_a48c0a847aab56bf98cabc68df13256928030a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_15845ae592d3d2ebd13c268d0160a71ec015294e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_eb790ee6eda753b06e135b85a0a252b749e5798f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_8a7c77793ab7b56e88cf23929fcfc8ad4e2af92d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_b850df58f7401895aa01bde6c08f9ec778619054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_4a8f208db89fc4152254eea62c80e5bb42a027b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_0ff1e164870e78fe86950f9c4d8b5c886146f770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_9be2d0fc4713d2362c3fb6c68e610058b856b0b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_36c3c17381feea6e467fe3948e823438da9622c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_2faf5415e62016f427e9410b46f967ecb804340b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.51.0_1b4b771156e89e0974fdb724f5c475f16388ddf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_7ffcd8d6a8c60536ec725f1dc226781577c8a3c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_106779a74f839093a61e28a46055ec0639f625c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_79a2149be1f1197b7f08a4c17b9c6b45536f79a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/RNNDemo/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="05ce63b458ce59203d3f28d066a48190413e412b">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/RNNDemo-react-native-navigation-unspecified_de9d9ab8afc3c3ec26d9c3b62f67fe702202f51a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_22a34d9ff4c6f01dc068b79a04e7ca5bb031e7a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_a6e0c69313649f27def8be1204d6dcfe6435ad59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_54d4ea28748682733d4bd9b9d6003bf6e8fe7de0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_9c8df77061e999941e8f3e6b9a6dc6fe0d5b1713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_34b1081963ea6e4bae7a276616cbdb7c4f8035d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_5ea34b77f3fba72d2d7a5ca0255599622a2c4052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_ffe737b6ac45970190345446faa246b4d267e394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_ee4bcd9b1e01222ffb61c5c8a78ca293b7083830.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/.m2/repository/com/squareup/okhttp3/okhttp/3.6.0/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_eb3379af897673173c8ca185343ec7ac0c176c0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_a1e531165fb80ad0b6e1fd2851a848e63004dcd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_b92c38da265e3ddf684fad408d6c206e5b25a894.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_769263dc9f35e0e3b7c542e3c8f3d45aeeea76fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_23c7df2f01166edf2f5eb882814df7e968228d2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_4d812308025ac7d2e3b5fc14e186196f8339bc1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_a49e911ed5de6f4c6f19d24555c94190d481535f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_fe3c47ab765f324cad850e0480d8f3d16afc6bf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_0589d78863a85d73b90590ef88c8cecc69654bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_5ece37dc09684ded602853f17a6322a057055f8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_8073e9b1301e19ec2cdea390ff74792b478c8c1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nguyendai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/nguyendai/Desktop/Code/React-Native/RNNDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_7c02da1f110442ca3aa0a31f9c478bbd34765830.jar" />
+    </item>
+
+</items>
